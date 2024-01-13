@@ -13,8 +13,3 @@
 .env.development
 .env.test
 .env.production
-
-# Ignore backup files
-*.bak
-*.backup
-*.swp
