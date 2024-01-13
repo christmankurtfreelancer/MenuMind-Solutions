@@ -22,6 +22,3 @@ All notable changes to this project will be documented in this file. The format 
 ## [Beta] - 2024-01-13
 
 ### Fixed
-
-- Bugfix K: Describe the fixed bug.
-- Another Bugfix L: Describe another bugfix.
